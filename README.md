@@ -1,5 +1,12 @@
 # Subprocessors
+
 The home of GitHub's sub-processors list
+
+## The List
+
+The list of subprocessors can be found in the [subprocessor_list.md](https://github.com/privacy/subprocessors/blob/main/subprocessor_list.md) file
+
+## How to Subscribe
 
 If you wish to get automated updates of GitHub's `subprocessor` list, simply watch this repo:
 1. Make sure you are logged in to your GitHub account
