@@ -15,7 +15,7 @@ MailChimp | Customer ticketing mail services provider | United States | United S
 Mailgun | Transactional mail services provider | United States | United States
 Microsoft | Microsoft Services | United States | United States
 Nexmo | SMS notification provider | United States | United States
-Salesforce.com | Customer | relations management | United States | United States
+Salesforce.com | Customer relations management | United States | United States
 Sentry.io | Application monitoring provider | United States | United States
 Stripe | Payment provider | United States | United States
 Twilio & Twilio Sendgrid | SMS notification provider & transactional mail service provider | United States | United States
