@@ -22,6 +22,6 @@ Twilio & Twilio Sendgrid | SMS notification provider & transactional mail servic
 Zendesk | Customer support ticketing system | United States | United States
 Zuora | Corporate billing system | United States | United States
 
-When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update this page. If you have questions or concerns about a new subprocessor, we'd be happy to help. Follow [these instructions](https://github.com/privacy/resources/blob/main/subscribe.md) to subscribe to changes in this repo.
+When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update this page. If you have questions or concerns about a new subprocessor, we'd be happy to help. Follow [these instructions](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications) to subscribe to changes in this repo.
 
 Please contact us via [Privacy contact form](https://github.com/contact/privacy).
